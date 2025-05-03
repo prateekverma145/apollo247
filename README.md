@@ -10,6 +10,8 @@ A clone of a doctor listing page using Next.js (frontend) and Express.js with Mo
 - Responsive design using Tailwind CSS
 - Backend API for doctor data management
 - MongoDB integration for data storage
+# working vedio 
+[Watch Video](https://drive.google.com/file/d/1gsIKDc831_x_4zaFIWCKb_eAwgszTMs5/view?usp=sharing)
 
 ## Project Structure
 
